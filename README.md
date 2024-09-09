@@ -1,3 +1,3 @@
 # oss
 
-(oss_1.png)
+![OSS](oss_1.png)
